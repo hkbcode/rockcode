@@ -1,1 +1,4 @@
-# Expo React native elements starter code with Typescript
+# rockcode
+
+
+reset repo, build app and push here..
